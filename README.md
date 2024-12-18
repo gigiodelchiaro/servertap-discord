@@ -1,7 +1,7 @@
-# Discord-Minecraft Chat Bridge
+# Discord integration using servertap
 
-This Python program bridges the gap between a Discord server and a Minecraft server, allowing for two-way communication and server status checks. It uses the Discord API, a Minecraft server with the servertap plugin, and Flask for handling incoming webhooks. 
-
+This Python program bridges the gap between a Discord server and a Minecraft server, allowing for two-way communication and server status checks. It uses the Discord API, a Minecraft server with the servertap plugin, and Flask for handling incoming webhooks.
+Inspired by [Discord Chat Merge](https://www.spigotmc.org/resources/discord-chat-merge.82981/)
 ## Features
 
 * **Two-way chat:** Sends messages from Discord to Minecraft and vice versa.
