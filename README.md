@@ -5,9 +5,8 @@ Inspired by [Discord Chat Merge](https://www.spigotmc.org/resources/discord-chat
 ## Features
 
 * **Two-way chat:** Sends messages from Discord to Minecraft and vice versa.
-* **Rich presence in Discord:** Shows player join/leave messages, deaths, kicks, and potentially other events.
+* **Discord:** Shows player join/leave messages, deaths, kicks and chat messages.
 * **`/ping` command:** Checks the Minecraft server's status (version, TPS, online players).
-* **Webhook integration:** Listens for events from the Minecraft server via webhooks.
 * **Configuration via `config.json`:** Easily customizable settings.
 
 ## Requirements
