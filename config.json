@@ -1,0 +1,7 @@
+{
+   "bot_token": "YOUR_DISCORD_BOT_TOKEN",
+   "channel_id": YOUR_DISCORD_CHANNEL_ID,
+   "broadcast_url": "YOUR_MINECRAFT_WEBHOOK_URL",
+   "broadcast_key": "YOUR_WEBHOOK_API_KEY",
+   "application_id": YOUR_DISCORD_APPLICATION_ID
+}
