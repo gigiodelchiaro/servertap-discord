@@ -18,7 +18,8 @@ Inspired by [Discord Chat Merge](https://www.spigotmc.org/resources/discord-chat
 * `Flask` library
 * A Minecraft server with servertap.
 * A Discord bot token.
-
+## Bot creation
+   For now, follow the guide from [Discord Chat Merge](https://www.spigotmc.org/resources/discord-chat-merge.82981/). The only difference is that the bot also requires the text permission **Read Message History**
 ## Installation
 
 1. **Clone the repository:**
@@ -36,3 +37,5 @@ Inspired by [Discord Chat Merge](https://www.spigotmc.org/resources/discord-chat
     "application_id": YOUR_DISCORD_APPLICATION_ID
    }
    ```
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
